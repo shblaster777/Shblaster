@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/lazyprincessbot.jpg" alt="Lazy Princess Logo">
+  <img src="assets/lazyprincessbot.jpg" alt="SH Logo">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> SHProSearchBOT </b>
 </h1>
 
 ## ⚡️Features
@@ -114,7 +114,7 @@ python3 bot.py
 
 ### Note
 
-[Join Main Channel](https://telegram.dog/LazyDeveloper): LazyDeveloper
+[Join Main Channel](https://telegram.dog/SHProSearchbot): SHProSearchbot
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
